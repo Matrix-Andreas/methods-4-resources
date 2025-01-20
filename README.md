@@ -7,7 +7,9 @@ This course wraps up the series of methods courses. We look at modelling from a 
 
 ## Materials and Literature
 
-The course is based on the textbook *Statistical Rethinking* (2nd edition, 2020) by Richard McElreath<sup>1</sup>. Please get a copy. The book's [homepage](https://xcelab.net/rm/statistical-rethinking/) contains lots of additional resources. In particular, please install the [R package `rethinking`](https://github.com/rmcelreath/rethinking). Slides and recordings of [the author's current course](https://github.com/rmcelreath/stat_rethinking_2023) and of previous versions from [2019](https://github.com/rmcelreath/statrethinking_winter2019) and [2022](https://github.com/rmcelreath/stat_rethinking_2022) are also available.
+The course is based on the textbook *Statistical Rethinking* (2nd edition, 2020) by Richard McElreath<sup>1</sup>. Please get a copy. The book's [homepage](https://xcelab.net/rm/statistical-rethinking/) contains lots of additional resources. In particular, please install the [R package `rethinking`](https://github.com/rmcelreath/rethinking). Slides and recordings of [the author's 2022 course](https://github.com/rmcelreath/stat_rethinking_2022) correspond to the latest (2nd) edition of the book, which we will be using.
+
+A previous version of the author's course materials from [2019](https://github.com/rmcelreath/statrethinking_winter2019) is also available. Materials from [2023](https://github.com/rmcelreath/stat_rethinking_2023) and [2024](https://github.com/rmcelreath/stat_rethinking_2024) are based on a forthcoming 3rd edition of the book, which is not yet available.
 
 <sup>1</sup>McElreath, R. (2020). *Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd ed.).* Chapman and Hall/CRC. [doi:10.1201/9780429029608](https://doi.org/10.1201/9780429029608)
 
@@ -20,21 +22,17 @@ We will be using a so-called 'flipped classroom' in this course. This means that
 
 | Course week | Week of year | Topics and readings                                                     |
 |:-----------:|:------------:|:------------------------------------------------------------------------|
-| 1           | 7            | Statistical models (chapters 1, 2)                                      |
-| 2           | 8            | Distributions and sampling (chapters 2, 3)                              |
-| 3           | 10           | Gaussian models and linear regression (chapters 3, 4)                   |
-| 4           | 11           | Model specification, total and direct effects, splines (chapter 4)      |
-| 5           | 14           | Directed acyclic graphs (chapter 5)                                     |
-| 6           | 15           | Causal inference (chapter 6)                                            |
-| 7           | 16           | Model comparison, interactions (chapters 7, 8)                          |
-| 8           | 17           | Markov chain Monte Carlo, maximum entropy (chapters 9, 10)              |
-| 9           | 18           | Generalized linear models (chapter 11)                                  |
-| 10          | 19           | Mixture models, ordered categorical outcomes/predictors (chapter 12)    |
-| 11          | 20           | Multilevel models (chapter 13)                                          |
-
-## Slack workspace
-
-In order for us to stay in contact, ask questions, and have discussions, there is a Slack workspace dedicated to this course. You will receive an invite link via Brightspace.
+| 1           | 6            | Statistical models (chapters 1, 2)                                      |
+| 2           | 7            | Distributions and sampling (chapters 2, 3)                              |
+| 3           | 8            | Gaussian models and linear regression (chapters 3, 4)                   |
+| 4           | 9            | Model specification, total and direct effects, splines (chapter 4)      |
+| 5           | 11           | Directed acyclic graphs (chapter 5)                                     |
+| 6           | 12           | Causal inference (chapter 6)                                            |
+| 7           | 14           | Model comparison, interactions (chapters 7, 8)                          |
+| 8           | 15           | Markov chain Monte Carlo, maximum entropy (chapters 9, 10)              |
+| 9           | 17           | Generalized linear models (chapter 11)                                  |
+| 10          | 18           | Mixture models, ordered categorical outcomes/predictors (chapter 12)    |
+| 11          | 19           | Multilevel models (chapter 13)                                          |
 
 ## Exam
 
@@ -43,8 +41,8 @@ In order for us to stay in contact, ask questions, and have discussions, there i
 consisting of a mix of text and code.
 
 - Due
-  1. End of week 11 (Sunday 17 March, 23:59)
-  2. End of week 16 (Sunday 21 April, 23:59)
-  3. End of week 20 (Sunday 19 May, 23:59)
+  1. End of week 9 (Sunday 2 March, 23:59)
+  2. End of week 14 (Sunday 6 April, 23:59)
+  3. End of week 18 (Sunday 4 May, 23:59)
 
-You will receive a (short) feedback message from us on your portfolio assignments that you can use for improvements before finalizing your hand-ins.
+You will receive a (short, general) feedback message from us on your portfolio assignments that you can use for improvements before finalizing your hand-ins.
