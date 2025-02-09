@@ -22,17 +22,17 @@ We will be using a so-called 'flipped classroom' in this course. This means that
 
 | Course week | Week of year | Topics and readings                                                     |
 |:-----------:|:------------:|:------------------------------------------------------------------------|
-| 1           | 6            | Statistical models (chapters 1, 2)                                      |
-| 2           | 7            | Distributions and sampling (chapters 2, 3)                              |
-| 3           | 8            | Gaussian models and linear regression (chapters 3, 4)                   |
-| 4           | 9            | Model specification, total and direct effects, splines (chapter 4)      |
-| 5           | 11           | Directed acyclic graphs (chapter 5)                                     |
-| 6           | 12           | Causal inference (chapter 6)                                            |
-| 7           | 14           | Model comparison, interactions (chapters 7, 8)                          |
-| 8           | 15           | Markov chain Monte Carlo, maximum entropy (chapters 9, 10)              |
-| 9           | 17           | Generalized linear models (chapter 11)                                  |
-| 10          | 18           | Mixture models, ordered categorical outcomes/predictors (chapter 12)    |
-| 11          | 19           | Multilevel models (chapter 13)                                          |
+| 1           | 7            | Statistical models (chapters 1, 2)                                      |
+| 2           | 8            | Distributions and sampling (chapters 2, 3)                              |
+| 3           | 9            | Gaussian models and linear regression (chapters 3, 4)                   |
+| 4           | 11           | Model specification, total and direct effects, splines (chapter 4)      |
+| 5           | 12           | Directed acyclic graphs (chapter 5)                                     |
+| 6           | 14           | Causal inference (chapter 6)                                            |
+| 7           | 15           | Model comparison, interactions (chapters 7, 8)                          |
+| 8           | 17           | Markov chain Monte Carlo, maximum entropy (chapters 9, 10)              |
+| 9           | 18           | Generalized linear models (chapter 11)                                  |
+| 10          | 19           | Mixture models, ordered categorical outcomes/predictors (chapter 12)    |
+
 
 ## Exam
 
